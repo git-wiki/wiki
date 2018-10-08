@@ -3,6 +3,7 @@
 
 - [Personal Website](https://jasonevanish.com/)
   - [About](https://jasonevanish.com/about/)
+- Founder of [Lighthouse](https://getlighthouse.com/)
 
 ## Intro from personal website
 > I'm a life-long learner & student of leadership who's focused on the challenge to build and scale great businesses. I love comparing notes, trading book recommendations and connecting with other entrepreneurs.<br><br>
