@@ -10,4 +10,5 @@ Like Wikipedia, but in Github
   - [Daniel Kahneman](/pages/daniel_kahneman.md)
 - Books
   - [Thinking, Fast and Slow](/pages/thinking_fast_and_slow.md)
+  - [The Wright Brothers](/pages/the_wright_brothers_book.md)
 
