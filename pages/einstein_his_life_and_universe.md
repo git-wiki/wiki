@@ -1,5 +1,5 @@
 
-# Einstein: His Life and Universe (book)
+# Einstein: His Life and Universe
 
 Einstein biography by Walter Isaacson
 
